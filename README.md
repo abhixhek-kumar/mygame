@@ -1,3 +1,3 @@
 # mygame
 Guess Game
-Link:- https://abhishek-kumar0804.github.io/mygame/ (Mobile friendly)
+Link:- https://abhixhek-kumar.github.io/bike-rental-website/ (Mobile friendly)
